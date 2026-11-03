@@ -16,21 +16,15 @@ The project investigates relationships between delivery duration and factors suc
 
 This project was developed in a two-person team for a second-year university course, using a dataset sourced from Kaggle.
 
-My Contributions:
+- **My Contributions:**
+  - Selected the project topic and dataset from Kaggle.
+  - Conducted the initial exploratory data analysis (EDA), including data inspection, preprocessing, and visualization.
+  - Worked on the regression analysis and model evaluation, excluding the Decision Tree implementation.
+  - Collaborated with my teammate on interpreting the results.
 
-Selected the project topic and dataset from Kaggle.
-
-Conducted the initial exploratory data analysis (EDA), including data inspection, preprocessing, and visualization.
-
-Worked on the regression analysis and model evaluation, excluding the Decision Tree implementation.
-
-Collaborated with my teammate on interpreting the results.
-
-Teammate's Contributions:
-
-Implemented the Decision Tree regression model.
-
-Collaborated on the final analysis and conclusions.
+- **Teammate's Contributions:**
+  - Implemented the Decision Tree regression model.
+  - Collaborated on the final analysis and conclusions.
 
 ## Features
 
