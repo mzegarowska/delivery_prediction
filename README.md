@@ -79,7 +79,3 @@ jupyter notebook
 - Courier experience shows a weak negative correlation with delivery time.
 - Prediction errors vary across delivery conditions and transportation categories.
 - Comparing multiple regression algorithms provides insight into the strengths and limitations of different modeling approaches.
-
-## 🎓 Project Context
-
-This project was completed as part of university coursework and demonstrates practical experience in data exploration, preprocessing, regression modeling, and interpreting machine learning results.
